@@ -51,4 +51,4 @@ client.on('message' , msg => {
 	};
  }//別動
 );
-client.login(config.token);
+client.login(process.env.DCB_TOKEN);
