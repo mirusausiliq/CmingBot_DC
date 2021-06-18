@@ -1,6 +1,6 @@
 const { strict } = require('assert');
 const Discord = require('discord.js'); // require the discord.js module
-const keyWord = require('./keyWordData.json');
+const keyword = require('./keyword.json');
 const client = new Discord.Client(); // create a new Discord client (Object)
 // when the client is ready, run this code
 // this event will only trigger one time after logging in
@@ -14,9 +14,9 @@ client.on('message' , msg => {
 	let nu1,nu2,nu3;
 	let str1 = " ",str2,str3;
 	let sp1,sp2,sp3,sp4,sp5,sp6;
-	const con0 = keyWord.Speak.length;
-	const con1 = keyWord.keyWord.length;
-	const con2 = keyWord.keyWord.indexOf(msg.content);
+	const con0 = keyword.Speak.length;
+	const con1 = keyword.keyWord.length;
+	const con2 = keyword.keyWord.indexOf(msg.content);
 		function getKeyNumber(x){
 			return Math.floor(Math.random()*x)
 		};
@@ -32,7 +32,7 @@ client.on('message' , msg => {
 		switch(rot){
 			case "keyword":{
 				for(nu1=0;nu1<5;nu1++){
-					str1 = str1 + keyWord.keyWord[getKeyNumber(con1)];
+					str1 = str1 + keyword.keyWord[getKeyNumber(con1)];
 					str1 += " ,";
 				} 
 				str1 = str1.slice(0,-1);//DONT USE .substring or .substr ㄇㄉ快被操死 ++ 有空來學點string excute好ㄌ
