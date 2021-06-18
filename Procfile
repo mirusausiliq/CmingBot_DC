@@ -1,1 +1,1 @@
-worker : node cming.js
+worker node cming.js

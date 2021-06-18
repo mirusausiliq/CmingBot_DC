@@ -47,7 +47,7 @@ client.on('message' , msg => {
 	}
 	else if(con2>=0){ //keyTalk
 		msg.reply(keyword.Speak[getKeyNumber(con0)]);
-	};
+	}; 
  }//別動
 );
 client.login(process.env.DCB_TOKEN);
