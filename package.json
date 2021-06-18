@@ -1,14 +1,23 @@
 {
-    "name": "CmingBot",
-    "version": "1.0.0",
-    "description": "CmingBot",
-    "main": "cming.js",
-    "scripts": {
-        "test": "echo \"Error: no tests pecified\" && exit 1"
-    },
-    "author": "Double",
-    "license": "MIT",
-    "dependencies": {
-        "discord.js": "^12.5.3"
-    }
+  "name": "c",
+  "version": "1.0.0",
+  "description": "CmingBot",
+  "main": "cming.js",
+  "scripts": {
+    "test": "echo \"Error: no tests pecified\" && exit 1"
+  },
+  "author": "Double",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirusa/cming.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mirusa/cming/issues"
+  },
+  "homepage": "https://github.com/Mirusa/cming#readme"
 }
