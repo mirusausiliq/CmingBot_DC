@@ -1,0 +1,12 @@
+
+{
+    "name": "CmingBot",
+    "version": "1.0.0",
+    "description": "CmingBot",
+    "main": "cming.js",
+    "author": "Double",
+    "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.2.1"
+    }
+    } 
