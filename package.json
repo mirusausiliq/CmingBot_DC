@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "description": "CmingBot",
     "main": "cming.js",
+    "scripts":{
+        "test":"echo \"Error: no tests pecified\" && exit 1"
+    },
     "author": "Double",
-    "dependencies": {
-    "discord.io": "github:woor/discord.io#gateway_v6",
-    "winston": "^3.2.1"
-    }
+    "license":"MIT"
     } 
