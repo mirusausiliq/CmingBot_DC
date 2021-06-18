@@ -46,7 +46,7 @@ client.on('message' , msg => {
 		}
 	}
 	else if(con2>=0){ //keyTalk
-		msg.reply(keyWord.Speak[getKeyNumber(con0)]);
+		msg.reply(keyword.Speak[getKeyNumber(con0)]);
 	};
  }//別動
 );
