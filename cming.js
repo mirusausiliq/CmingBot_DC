@@ -1,6 +1,5 @@
 const { strict } = require('assert');
 const Discord = require('discord.js'); // require the discord.js module
-const config = require('./config.json');
 const keyWord = require('./keyWordData.json');
 const client = new Discord.Client(); // create a new Discord client (Object)
 // when the client is ready, run this code
