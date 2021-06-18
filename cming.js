@@ -5,7 +5,12 @@ const talk = require('./talk.json');
 
 client.login(process.env.DCB_TOKEN);
 
-client.once('ready', () => {
+client.on('ready', () => {
 	console.log(`${client.user.tag} is online!!`); 
 }); 
 
+client.on('message', () => {
+	if(msg.content == "Ping!"){
+		msg.reply('Pong!')
+	}
+})
