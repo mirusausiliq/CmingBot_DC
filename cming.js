@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const keyword = require('./keyword.json');
 const talk = require('./talk.json');
 
-client.login(process.env.DCB_TOKEN);
+client.login(process.env.DC_TOKEN);
 
 client.on('ready', () => {
 	console.log(`${client.user.tag} is online!!`); 
