@@ -10,12 +10,12 @@ Have a fun with it !!!
 #Command
 ##Chelp
 To open the help list.
-![perview](Chelp.jpg)
+![perview](Chelp.png)
 
 ##Ckeyword
 To list the keywords
-![perview](Chelp.jpg)
+![perview](Chelp.png)
 
 ##keywords
 To start your conversation with Cming-Bot 
-![perview](Chelp.jpg)
+![perview](Chelp.png)
