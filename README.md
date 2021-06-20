@@ -15,8 +15,8 @@ To open the help list.<br>
 
 ### Ckeyword
 To list the keywords<br>
-![perview](Chelp.png)<br>
+![perview](Ckeyword.png)<br>
 
 ### keywords
 To start your conversation with Cming-Bot<br>
-![perview](Chelp.png)<br>
+![perview](Any%leyword.png)<br>
