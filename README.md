@@ -7,16 +7,16 @@ Chick [here](https://discord.com/api/oauth2/authorize?client_id=6996267700471727
 Play with it and to see what it've got.<br>
 Have a fun with it !!!<br>
 
-#Command
+# Command
 
-##Chelp
+## Chelp
 To open the help list.<br>
 ![perview](Chelp.png)<br>
 
-##Ckeyword
+## Ckeyword
 To list the keywords<br>
 ![perview](Chelp.png)<br>
 
-##keywords
+## keywords
 To start your conversation with Cming-Bot<br>
 ![perview](Chelp.png)<br>
