@@ -1,22 +1,21 @@
 # About
-A Discord Bot based on Cming(王希銘).
-And this is a chat-bot, you can have a chat with it.(~~probably what he says are dirty talks~~)
-If you feel okay
-Chick [here](https://discord.com/api/oauth2/authorize?client_id=699626770047172711&permissions=0&scope=bot) to add it into your server.
-**Bot is hosting on Heroku free dyno, and will stop running out after a hour.**
-Play with it and to see what it've got.
-Have a fun with it !!!
-
+A Discord Bot based on Cming(王希銘).<br>
+And this is a chat-bot, you can have a chat with it.(~~probably what he says are dirty talks~~)<br><br><br>
+If you feel okay<br><br>
+Chick [here](https://discord.com/api/oauth2/authorize?client_id=699626770047172711&permissions=0&scope=bot) to add it into your server.<br>
+**Bot is hosting on Heroku free dyno, and will stop running out after a hour.**<br><br><br>
+Play with it and to see what it've got.<br><br>
+Have a fun with it !!!<br>
 
 #Command
 ##Chelp
-To open the help list.
-![perview](Chelp.png)
+To open the help list.<br>
+![perview](Chelp.png)<br>
 
 ##Ckeyword
-To list the keywords
-![perview](Chelp.png)
+To list the keywords<br>
+![perview](Chelp.png)<br>
 
 ##keywords
-To start your conversation with Cming-Bot 
-![perview](Chelp.png)
+To start your conversation with Cming-Bot<br>
+![perview](Chelp.png)<br>
