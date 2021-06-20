@@ -19,4 +19,4 @@ To list the keywords<br>
 
 ### keywords
 To start your conversation with Cming-Bot<br>
-![perview](Any%leyword.png)<br>
+![perview](Any%keyword.png)<br>
