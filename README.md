@@ -9,14 +9,20 @@ Have a fun with it !!!<br>
 
 # Command
 
-```Chelp```
+```
+>> Chelp
+```
 To open the help list.<br>
 ![perview](Chelp.png)<br>
 
-```Ckeyword```
+```
+>> Ckeyword
+```
 To list the keywords<br>
 ![perview](Ckeyword.png)<br>
 
-```keywords```
+```
+>> keywords
+```
 To start your conversation with Cming-Bot<br>
 ![perview](keyword.png)<br>
