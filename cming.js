@@ -28,7 +28,7 @@ client.on('message' , msg => {
 		.addField('>>> Ckeyword','找關鍵字')
 		.addField(`>>> ~~各種關鍵字~~`,'噁男語錄')
 		.setTimestamp()
-		.setFooter('By Mirusa Usiliq','https://imgur.com/J3iFTMJ.png');
+		.setFooter('By mirusausiliq','https://imgur.com/J3iFTMJ.png');
 	if(pre == true){
 		switch(rot){
 			case "keyword":{
